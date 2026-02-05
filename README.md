@@ -1,3 +1,7 @@
+# Learn from this drive url it is uploaded in vprem9589@gmail.com email
+Link - https://drive.google.com/drive/folders/1MHsUFqetd8e4E425t37VFPc97p1UgVmh
+
+
 # aws-services
 - Iaas - EC2 -> this will give only an OS then we have to manage all things.
 - PaaS - RDS -> This manage gives all managed thing all configuration just we need to manage our data as we want but other things will be managed automatically.
